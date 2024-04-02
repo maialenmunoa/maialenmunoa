@@ -18,3 +18,9 @@ softSkills: ["teamwork", "adaptability", "organisation"],
 hobbies: ["books", "music", "beach", "wine"]
 };
 ```
+
+- 🌎 Based in Madrid, Spain
+- 🚀 Currently expanding my expertise with Angular
+- 📫 You can contact me at hola@maialenmunoa.com
+- 🌐 Visit my website: www.maialenmunoa.com
+
