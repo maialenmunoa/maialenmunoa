@@ -9,13 +9,13 @@ I am a journalist converted into a web developer.
 ```
 const maialenmunoa = {
 pronouns: "she/her",
-code: ["JavaScript", "HTML5", "CSS3"],
-tools: ["React", "npm", "VSCode", "Sass", "Git"],
-backend: ["Node JS", "Express JS", "MySQL", "MongoDB"],
-versionControl: ["Git", "GitHub"],
-methodologies: ["Agile", "Scrum"],
-softSkills: ["teamwork", "adaptability", "organisation"],
-hobbies: ["books", "music", "beach", "wine"]
+code: ["JavaScript","HTML5","CSS3"],
+tools: ["React","npm","VSCode","Sass"],
+backend: ["NodeJS","ExpressJS","MySQL","MongoDB"],
+versionControl: ["Git","GitHub"],
+methodologies: ["Agile","Scrum"],
+softSkills: ["teamwork","adaptability","organisation"],
+hobbies: ["books","music","beach","wine"]
 };
 ```
 
