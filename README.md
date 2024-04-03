@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Maialen
 
-### FULL STACK Developer 👩‍💻
+### FRONT END Developer 👩‍💻
 
 I am a journalist converted into a web developer.
 
