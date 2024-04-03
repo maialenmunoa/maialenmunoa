@@ -34,7 +34,7 @@ const maialenmunoa = {
 - Building intuitive web applications that enhance user experience
 - Exploring innovative solutions in AI and machine learning
 
-##### Soft skills
+#### Soft skills
 
 - Expertise in project development under Agile & Scrum methodologies.
 - Thriving in remote work environments.
