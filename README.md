@@ -2,7 +2,7 @@
 
 ### FRONT END Developer 👩‍💻
 
-I am a journalist converted into a web developer.
+I'm a journalist converted into a web developer.
 
 >*Imagination is the faculty of discovery...* – Ada Lovelace.
 
@@ -30,7 +30,7 @@ const maialenmunoa = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maialenmunoa&layout=compact)
 
-🚀 I am working on these projects:
+🚀 I'm working on these projects:
 - Building intuitive web applications that enhance user experience
 - Exploring innovative solutions in AI and machine learning
 
