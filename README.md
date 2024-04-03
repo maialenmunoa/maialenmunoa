@@ -44,6 +44,6 @@ const maialenmunoa = {
 
 #### Let's Connect
 📧 Email: hola@maialenmunoa.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/maialenmunoa/)
 
 Let's collaborate to turn ideas into impactful digital experiences!
