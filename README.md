@@ -9,10 +9,9 @@ I'm a journalist converted into a web developer.
 ```
 const maialenmunoa = {
   pronouns: "she/her",
-  code: ["JavaScript","HTML5","CSS3"],
-  tools: ["React","npm","VSCode","Sass"],
+  code: ["JavaScript","React","HTML5","CSS3","Sass"],
+  tools: ["VSCode","npm","Git"],
   backend: ["NodeJS","ExpressJS","MySQL","MongoDB"],
-  versionControl: ["Git","GitHub"],
   methodologies: ["Agile","Scrum"],
   softSkills: ["teamwork","adaptability","organisation"],
   hobbies: ["books","music","beach","wine"]
