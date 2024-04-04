@@ -21,7 +21,7 @@ const maialenmunoa = {
 - 🌎 Based in Madrid, Spain
 - 🚀 Currently expanding my expertise with Angular
 - 📫 You can contact me at hola@maialenmunoa.com
-- 🌐 Visit my website: [maialenmunoa.com](maialenmunoa.com)
+- 🌐 Visit my website: [maialenmunoa.com](https://maialenmunoa.com)
 
 #### Lenguages & Tools
 
