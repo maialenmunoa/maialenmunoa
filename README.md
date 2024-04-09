@@ -23,7 +23,7 @@ const maialenmunoa = {
 - 📫 You can contact me at hola@maialenmunoa.com
 - 🌐 Visit my website: [maialenmunoa.com](https://maialenmunoa.com)
 
-#### Lenguages & Tools
+### Lenguages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,npm,nodejs,nextjs,mysql,mongodb,express,postman,vscode&theme=light)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@ const maialenmunoa = {
 - Building intuitive web applications that enhance user experience
 - Exploring innovative solutions in AI and machine learning
 
-#### Soft skills
+### Soft skills
 
 - Expertise in project development under Agile & Scrum methodologies.
 - Thriving in remote work environments.
@@ -42,7 +42,7 @@ const maialenmunoa = {
 - Clear and effective communication.
 - Dedication to continuous self-improvement.
 
-#### Let's Connect
+### Let's Connect
 📧 Email: hola@maialenmunoa.com
 🔗 [LinkedIn](https://www.linkedin.com/in/maialenmunoa/)
 
