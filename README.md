@@ -6,7 +6,7 @@ I'm a journalist converted into a web developer.
 
 >*Imagination is the faculty of discovery...* – Ada Lovelace.
 
-~~~~
+```
 const maialenmunoa = {
   pronouns: "she/her",
   code: ["JavaScript","React","HTML5","CSS3","Sass"],
@@ -16,7 +16,7 @@ const maialenmunoa = {
   softSkills: ["teamwork","adaptability","organisation"],
   hobbies: ["books","music","beach","wine"]
 };
-~~~~
+```
 
 - 🌎 Based in Madrid, Spain
 - 🚀 Currently expanding my expertise with Angular
