@@ -20,6 +20,7 @@ const maialenmunoa = {
 
 - 🌎 Based in Madrid, Spain
 - 🚀 Currently expanding my expertise with Angular
+- 🧪 Working on amazing projects at [Lualab](https://github.com/lualab-xyz).
 - 📫 You can contact me at hola@maialenmunoa.com
 - 🌐 Visit my website: [maialenmunoa.com](https://maialenmunoa.com)
 
