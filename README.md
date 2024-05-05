@@ -31,8 +31,9 @@ const maialenmunoa = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maialenmunoa&layout=compact)
 
 🚀 I'm working on these projects:
+- Booking for google calendar
+- My portfolio
 - Learning Angular and TypeScript
-- Building intuitive web applications that enhance user experience
 - Exploring innovative solutions in AI and machine learning
 
 ### Soft skills
