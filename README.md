@@ -20,9 +20,8 @@ const maialenmunoa = {
 
 - 🌎 Based in Madrid, Spain
 - 🚀 Currently expanding my expertise with Angular
-- 🧪 Working on amazing projects at [Lualab](https://github.com/lualab-xyz)
-- 📫 You can contact me at hola@maialenmunoa.com
-- 🌐 Visit my website: [maialenmunoa.com](https://maialenmunoa.com)
+- 📫 You can contact me at [this form](maialen.dev/contacto)
+- 🌐 Visit my website: [maialen.dev](maialen.dev)
 
 ### Lenguages & Tools
 
@@ -31,7 +30,7 @@ const maialenmunoa = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maialenmunoa&layout=compact)
 
 🚀 I'm working on these projects:
-- Booking for google calendar
+
 - My portfolio
 - Learning Angular and TypeScript
 - Exploring innovative solutions in AI and machine learning
@@ -45,7 +44,7 @@ const maialenmunoa = {
 - Dedication to continuous self-improvement.
 
 ### Let's Connect
-📧 Email: hola@maialenmunoa.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/maialenmunoa/)
 
 Let's collaborate to turn ideas into impactful digital experiences!
