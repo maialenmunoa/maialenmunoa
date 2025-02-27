@@ -20,8 +20,8 @@ const maialenmunoa = {
 
 - 🌎 Based in Madrid, Spain
 - 🚀 Currently expanding my expertise with Angular
-- 📫 You can contact me at [this form](maialen.dev/contacto)
-- 🌐 Visit my website: [maialen.dev](maialen.dev)
+- 📫 You can contact me at [this form](https://maialen.dev/contacto)
+- 🌐 Visit my website: [maialen.dev](https://maialen.dev)
 
 ### Lenguages & Tools
 
